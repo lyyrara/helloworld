@@ -1,16 +1,12 @@
 ## helloworld
 
 ### App Description
-`TODO://`change text color
-change background color
-change the custom text
+`TODO://`change text color,background color, edit the custom text and reset
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://github.com/lyyrara/helloworld/blob/db0d35195321fc695b3096c089ffbafbabbbe9eb/walkthrough.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
